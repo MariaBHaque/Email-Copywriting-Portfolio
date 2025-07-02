@@ -16,7 +16,7 @@ A first-contact welcome email for a minimalist, emotionally-intelligent skincare
 - Focus: Voice-driven intro, tone softness, trust-building  
 - Goal: Establish brand values and encourage first product exploration  
 
-[View the email template here](Technical%20Writing%20Portfolio/UserGuide)  
+[View the email template here](Glaston%Skincare-Welcome%Email)  
 
 ### Project 2: GreenSage Studio – Product Drop Email  
 An editorial-style product launch email for a slow fashion label.  
