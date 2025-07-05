@@ -34,4 +34,4 @@ An editorial-style product launch email for a slow fashion label.
 Thanks for reading! You can reach me at:  
 Email: mariahaque35@gmail.com  
 
-      [My GitHub Profile](https://github.com/MariaBHaque)
+[My GitHub Profile](https://github.com/MariaBHaque)
